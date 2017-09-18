@@ -1,4 +1,4 @@
-# JAVA와 Sprin Framework를 이용한 JPA 프로젝트
+# JAVA와 Spring Framework를 이용한 JPA 프로젝트
 
 ## Document
 
